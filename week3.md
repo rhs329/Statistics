@@ -1,4 +1,4 @@
-<img width="683" height="248" alt="image" src="https://github.com/user-attachments/assets/58746459-37ad-4eeb-9ffa-80b0c613c4b2" />(p117-143) 5. 가설검정 내용 정리
+(p117-143) 5. 가설검정 내용 정리
 
 
 ## 가설검정의 원리
